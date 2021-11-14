@@ -6,8 +6,8 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.example.buttondemo"
-        minSdk 19
+        applicationId "com.example.imageviewdemo"
+        minSdk 21
         targetSdk 31
         versionCode 1
         versionName "1.0"

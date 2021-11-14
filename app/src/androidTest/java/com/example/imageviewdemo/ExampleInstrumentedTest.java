@@ -1,4 +1,4 @@
-package com.example.buttondemo;
+package com.example.imageviewdemo;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.buttondemo", appContext.getPackageName());
+        assertEquals("com.example.imageviewdemo", appContext.getPackageName());
     }
 }

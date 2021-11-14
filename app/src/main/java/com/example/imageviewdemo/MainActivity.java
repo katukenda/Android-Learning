@@ -1,4 +1,4 @@
-package com.example.buttondemo;
+package com.example.imageviewdemo;
 
 import androidx.appcompat.app.AppCompatActivity;
 
