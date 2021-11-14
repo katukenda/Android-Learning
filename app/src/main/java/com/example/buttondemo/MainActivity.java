@@ -1,14 +1,14 @@
-package com.example.mylistviewdemo;
+package com.example.buttondemo;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class OrangeActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_orange);
+        setContentView(R.layout.activity_main);
     }
 }
