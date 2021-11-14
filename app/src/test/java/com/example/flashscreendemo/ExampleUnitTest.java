@@ -1,4 +1,4 @@
-package com.example.firstapp;
+package com.example.flashscreendemo;
 
 import org.junit.Test;
 
