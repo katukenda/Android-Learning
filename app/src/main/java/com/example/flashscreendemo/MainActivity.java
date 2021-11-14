@@ -1,4 +1,4 @@
-package com.example.imageviewdemo;
+package com.example.flashscreendemo;
 
 import androidx.appcompat.app.AppCompatActivity;
 
