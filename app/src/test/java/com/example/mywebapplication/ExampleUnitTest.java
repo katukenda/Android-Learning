@@ -1,4 +1,4 @@
-package com.example.apitesting;
+package com.example.mywebapplication;
 
 import org.junit.Test;
 

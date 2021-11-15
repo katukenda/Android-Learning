@@ -1,4 +1,4 @@
-package com.example.apitesting;
+package com.example.mywebapplication;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.apitesting", appContext.getPackageName());
+        assertEquals("com.example.mywebapplication", appContext.getPackageName());
     }
 }
