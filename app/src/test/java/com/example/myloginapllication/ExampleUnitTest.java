@@ -1,4 +1,4 @@
-package com.example.mywebapplication;
+package com.example.myloginapllication;
 
 import org.junit.Test;
 
