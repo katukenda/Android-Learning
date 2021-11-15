@@ -1,4 +1,4 @@
-package com.example.signupdemo;
+package com.example.fingerprintauthdemo;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.signupdemo;
+package com.example.fingerprintauthdemo;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.signupdemo", appContext.getPackageName());
+        assertEquals("com.example.fingerprintauthdemo", appContext.getPackageName());
     }
 }
