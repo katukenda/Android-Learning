@@ -1,4 +1,4 @@
-package com.example.myloginapllication;
+package com.example.signupdemo;
 
 import org.junit.Test;
 
