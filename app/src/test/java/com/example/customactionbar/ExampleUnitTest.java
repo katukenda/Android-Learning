@@ -1,4 +1,4 @@
-package com.example.flashscreendemo;
+package com.example.customactionbar;
 
 import org.junit.Test;
 
