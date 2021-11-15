@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ButtonDemo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/CustomActionBar" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/FirstApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Http API" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ImageViewDemo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/RecycleViewDemo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SplashScreenDemo" vcs="Git" />
